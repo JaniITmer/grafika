@@ -1,0 +1,11 @@
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\bin\Debug\Hazi_feladat.exe.config
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\bin\Debug\Hazi_feladat.exe
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\bin\Debug\Hazi_feladat.pdb
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.AssemblyReference.cache
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.Form1.resources
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.Properties.Resources.resources
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.GenerateResource.cache
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.CoreCompileInputs.cache
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.exe
+C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.pdb
