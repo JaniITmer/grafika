@@ -9,3 +9,14 @@ C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\H
 C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.CoreCompileInputs.cache
 C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.exe
 C:\Users\nagyj\Desktop\Egyetem\Ötödik félév\Grafika gyakorlat\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.pdb
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\bin\Debug\Hazi_feladat.exe.config
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\bin\Debug\Hazi_feladat.exe
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\bin\Debug\Hazi_feladat.pdb
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.Form1.resources
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.Properties.Resources.resources
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.GenerateResource.cache
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.CoreCompileInputs.cache
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.exe
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.pdb
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.AssemblyReference.cache
+F:\Eger Suli\5.felev\grafika\grafika\Hazi_feladat\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.SuggestedBindingRedirects.cache
